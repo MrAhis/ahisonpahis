@@ -1,0 +1,15 @@
+h1 {
+font-size: 5rem;
+font-family: sans-serif;
+color: white;
+text-align: center;
+}
+body {
+    background-color: black;
+}
+.giffi1 {
+    height: 40vh;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
